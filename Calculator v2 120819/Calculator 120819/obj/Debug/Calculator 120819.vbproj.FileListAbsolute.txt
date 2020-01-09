@@ -1,0 +1,24 @@
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\bin\Debug\Calculator 120819.exe.config
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\bin\Debug\Calculator 120819.exe
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\bin\Debug\Calculator 120819.pdb
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\bin\Debug\Calculator 120819.xml
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\obj\Debug\Calculator 120819.vbprojAssemblyReference.cache
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\obj\Debug\Calculator_120819.Form1.resources
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\obj\Debug\Calculator_120819.Resources.resources
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\obj\Debug\Calculator 120819.vbproj.GenerateResource.cache
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\obj\Debug\Calculator 120819.vbproj.CoreCompileInputs.cache
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\obj\Debug\Calculator 120819.exe
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\obj\Debug\Calculator 120819.xml
+E:\4 Visual Basic\Calculator 120819\Calculator 120819\obj\Debug\Calculator 120819.pdb
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\bin\Debug\Calculator 120819.exe.config
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\bin\Debug\Calculator 120819.exe
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\bin\Debug\Calculator 120819.pdb
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\bin\Debug\Calculator 120819.xml
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\obj\Debug\Calculator 120819.vbprojAssemblyReference.cache
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\obj\Debug\Calculator_120819.Form1.resources
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\obj\Debug\Calculator_120819.Resources.resources
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\obj\Debug\Calculator 120819.vbproj.GenerateResource.cache
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\obj\Debug\Calculator 120819.vbproj.CoreCompileInputs.cache
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\obj\Debug\Calculator 120819.exe
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\obj\Debug\Calculator 120819.xml
+E:\4 Visual Basic\Calculator v2 120819\Calculator 120819\obj\Debug\Calculator 120819.pdb
